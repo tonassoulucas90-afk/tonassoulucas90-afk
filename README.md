@@ -8,10 +8,6 @@
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tonassoulucas90-afk&show_icons=true&hide_border=true&bg_color=07140e&title_color=86efac&icon_color=34d399&text_color=d1fae5" alt="GitHub stats" />
-
-<br/>
-
 <img src="assets/footer.svg" width="100%" alt="" />
 
 </div>
